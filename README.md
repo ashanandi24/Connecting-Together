@@ -24,7 +24,8 @@ Multer
 A. Create a new channel
 
     Channels are created by teachers or admin and members are added. The members added to the channels by the creator will have the access for discussion.
-    
+<img width="952" alt="1" src="https://user-images.githubusercontent.com/58679154/143720523-5b0460a2-6827-449b-a890-a1d9e4339074.png">
+
 
 B. Classwise Distribution of Channels:
 
