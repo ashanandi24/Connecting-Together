@@ -1,9 +1,9 @@
 # Connecting-Together
 This project aims at providing a platform to students to commuicate and have a discussion with their teachers in this pandemic time where they don't have the acces to physical interaction.
 
-- Project Link:
+- Project Link: https://connecting-together.netlify.app/
 
-- Demo Video Link:
+- Demo Video Link: https://youtu.be/z_wrKNTBShM
 
 ## Tech Stack Used
  
