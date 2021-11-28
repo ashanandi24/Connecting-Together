@@ -45,6 +45,7 @@ Messages can be sent privately to any individual by clicking on Direct Messages 
 E. Sending Attachments
 
 Attachments including multimedia files, PDFs, images and many more can be sent in any conversation.
+<img width="956" alt="7" src="https://user-images.githubusercontent.com/58679154/143764158-fa3aeaaf-5409-4936-b7d1-349834d5af6b.png">
 
 F. Knowing read receipts of a message
 
