@@ -65,9 +65,12 @@ In case any user of the application is offline, a message notification will be s
 C. Stream-Chat Account
 
 Adding users to the Online Forum application can be also done by the school admin by logging in to Stream-Chat account. Additionally he/she can also create channels and add users to it. 
+<img width="939" alt="2021-11-28 (4)" src="https://user-images.githubusercontent.com/58679154/143764218-3b800fc7-985f-4581-9af2-eef85bd7259e.png">
+
 
 D. Uploading and Downloading of class Assignments, Attendance and Recordings
 
 If any teacher login, then by clicking on the i button near the channel name he/she can upload the class assignments, attendance and recordings which will be saved to the Google Firebase in a folder whose name is same as that of channel name. 
 If any student login, then by clicking on the i button, he/she can download all the materials provided by the teacher.
+<img width="956" alt="2021-11-28 (5)" src="https://user-images.githubusercontent.com/58679154/143764222-2b894bbc-6ea3-48b0-81d8-e0138b79857e.png">
 
