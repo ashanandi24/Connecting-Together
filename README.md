@@ -39,17 +39,17 @@ We can add emojis, reactions, threads to messages in group chat and direct messa
 D. Direct Messages
 
 Messages can be sent privately to any individual by clicking on Direct Messages tab and selecting the user to whom we want to send the message.
-<img width="956" alt="4" src="https://user-images.githubusercontent.com/58679154/143764104-9b9cee77-494e-49e1-9650-5bbe925b219f.png">
+<img width="956" alt="7" src="https://user-images.githubusercontent.com/58679154/143764158-fa3aeaaf-5409-4936-b7d1-349834d5af6b.png">
 
 E. Sending Attachments
 
 Attachments including multimedia files, PDFs, images and many more can be sent in any conversation.
-<img width="960" alt="6" src="https://user-images.githubusercontent.com/58679154/143764134-e3dc5c7b-7854-4836-8c60-dec0489bdfbf.png">
+<img width="956" alt="4" src="https://user-images.githubusercontent.com/58679154/143764104-9b9cee77-494e-49e1-9650-5bbe925b219f.png">
 
 F. Knowing read receipts of a message
 
 It provides the feature to make the sender aware about who all have read the messages in case of group chat.
-<img width="956" alt="7" src="https://user-images.githubusercontent.com/58679154/143764158-fa3aeaaf-5409-4936-b7d1-349834d5af6b.png">
+
 
 ### Secondary Features
 A. SignUp/SignIn Form
