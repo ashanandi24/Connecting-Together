@@ -36,10 +36,11 @@ C. Messaging Features
 
 We can add emojis, reactions, threads to messages in group chat and direct messages
 <img width="956" alt="4" src="https://user-images.githubusercontent.com/58679154/143764104-9b9cee77-494e-49e1-9650-5bbe925b219f.png">
+
 D. Direct Messages
 
 Messages can be sent privately to any individual by clicking on Direct Messages tab and selecting the user to whom we want to send the message.
-
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/58679154/143764134-e3dc5c7b-7854-4836-8c60-dec0489bdfbf.png">
 
 E. Sending Attachments
 
