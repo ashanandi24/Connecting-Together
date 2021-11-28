@@ -11,7 +11,10 @@ This project aims at providing a platform to students to commuicate and have a d
 Javascript
 ### Client-Side
 React.js
+
 Stream Chat API
+
+Google Firebase
 ### Server-Side
 Node.js
 
