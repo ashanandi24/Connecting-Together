@@ -49,6 +49,7 @@ Attachments including multimedia files, PDFs, images and many more can be sent i
 F. Knowing read receipts of a message
 
 It provides the feature to make the sender aware about who all have read the messages in case of group chat.
+<img width="955" alt="77" src="https://user-images.githubusercontent.com/58679154/143764360-3078a9e9-d549-4110-aa06-2fb6cf8038a1.png">
 
 
 ### Secondary Features
