@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { listAll } from "./fire";
+import { listAll } from "../firebase";
 
 
 export const FileDownloader = ({channelName} ) =>  {
